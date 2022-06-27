@@ -3,6 +3,8 @@ Enter a number and have the program generate the Fibonacci sequence to that numb
 
 27/06/22
 
+Update: This is another challenge I am creating for QA ltd
+
 Ok, so the challenge of the day is to make a program where you enter a number, and the program calculates the Fibonacci sequence up to that many digits.
 
 As a super basic explanation, ripping from Wikipedia:
